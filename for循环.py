@@ -17,7 +17,7 @@ print("%d年后，兔子的数量为%d。"%(N,rabbit))
 
 for i in range(0,5):
     print('*****')
-
+  
 N=int(input("请输入N的值："))
 sum = 0
 for i in range(1,N+1):
